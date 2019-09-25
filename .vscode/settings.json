@@ -1,4 +1,8 @@
 {
     "terminal.integrated.cursorBlinking": true,
-    "terminal.explorerKind": "external"
+    "terminal.explorerKind": "external",
+    "editor.fontFamily": " Consolas, 'times new roman', monospace",
+    "workbench.colorTheme": "Dracula Soft",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.settings.openDefaultKeybindings": true
 }
